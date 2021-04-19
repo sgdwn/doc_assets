@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T13:28:04.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="iCWUI2akUfa-yePNFAne" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T13:36:06.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="NX9Ka5Ck2N8kjxE2A2TF" version="14.6.1" type="github">
   <diagram id="SuNVphhk_r-dVFvO_X8W" name="Page-1">
     <mxGraphModel dx="460" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -283,7 +283,7 @@
             <mxPoint x="11" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CILamcJ8nU6C3IH5OURe-80" value="1. select appropriate addition formula&lt;br&gt;2.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="CILamcJ8nU6C3IH5OURe-80" value="1. select appropriate addition formula&lt;br&gt;2. calculate \(R\) by \(\sqrt{a^2 +b^2}\)&lt;br&gt;3. calculate \(\alpha\) by \(tan^{-1}\frac{b}{a}\)&lt;br&gt;4. sub \(R\) and \(\alpha\) into \(R\cos \alpha\) or \(R\sin \alpha\)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="16" y="940" width="374" height="110" as="geometry" />
         </mxCell>
       </root>
