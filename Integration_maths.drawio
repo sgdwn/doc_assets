@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T10:49:26.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Hl9-Gnkv1zSbmfuE3jA1" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T11:05:25.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="hLk8yydlXIzaVGt4w0z1" version="14.6.1" type="github">
   <diagram id="SuNVphhk_r-dVFvO_X8W" name="Page-1">
-    <mxGraphModel dx="870" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="hj8D2mjoaMXsEgfOs6C1-25" value="$$\frac{(x+3)^4}{1\times 4}+c$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fillColor=#ffffff;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="450" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hj8D2mjoaMXsEgfOs6C1-26" value="$$=\frac{(x+3)^3}{4}+c$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fillColor=#ffffff;align=center;" parent="1" vertex="1">
+        <mxCell id="hj8D2mjoaMXsEgfOs6C1-26" value="$$=\frac{(x+3)^4}{4}+c$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=16;fillColor=#ffffff;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="530" width="166" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hj8D2mjoaMXsEgfOs6C1-41" value="" style="endArrow=none;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=28;strokeWidth=4;" parent="1" edge="1">
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="NSzI-JURLk4PuQN7T8RH-41" value="Substitute limits, subtracts" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
           <mxGeometry x="230" y="1010" width="184" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NSzI-JURLk4PuQN7T8RH-42" value="This work is shared under a Creative Commons Attribution-ShareAlike license.&lt;br&gt;More details:&amp;nbsp;https://creativecommons.org/licenses/by-sa/4.0/" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1120" width="450" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
